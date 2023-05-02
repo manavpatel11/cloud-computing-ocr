@@ -2,7 +2,6 @@
 (vi)
 Recursive
 Bubble
-we
 It
 do
 goes right.
@@ -18,10 +17,11 @@ Already sorted
 time
 Sort
 uses
+11
 compare two
-15
 1
 Lighter
+***
 not
 E
 Recursion (Non-Recursive)
@@ -39,13 +39,12 @@ adaptive
 after
 DOMS Page No.
 Date 1 1
-arr
 data takes less
+arr
 but
 adaptivity
 +
 compare two elements.
-int
 int n)
 for (int i=0; i≤n-1; i++)
 {
@@ -54,14 +53,15 @@ We
 heavier
 can
 0(n)
+int sorted = 0; |
 ( j = 0; j < n-i-1 ; j++)
 {
-Sorted = 1;
+sorted = 1;
 int
-if (arr[j] >
+if ( arr[j] >
 {
+int
 temp =
-int sorted = 0;
-arr [j+1] )
+arr [j+1])
 arr [J];
 2/18
